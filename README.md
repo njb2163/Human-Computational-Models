@@ -5,8 +5,6 @@ This research focused on developing human-like artificial agents to understand a
 
 ![Kalman Research Symposium 2020, Nicholas Bindela](‎ResearchPoster.png)
 
-*Figure: Poster summarizing the research done.*
-
 
 
 
